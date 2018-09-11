@@ -1,0 +1,82 @@
+[
+  {
+    "Id": "212498",
+    "ThreadId": "62609",
+    "Html": "<p>Anyone doing VB.NET using project GNMap who would like to share knowledge and code samples?</p>",
+    "PostedDate": "2009-07-16T03:53:54.88-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "219152",
+    "ThreadId": "62609",
+    "Html": "<p>Hi Wenner,</p>\r\n<p>The GMap.NET contorl is a drag and drop implementation and does not require any code.&nbsp;&nbsp; You just need to reference the control dll and tehn you can drag and drop it in.</p>",
+    "PostedDate": "2009-08-04T02:14:54.753-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "241006",
+    "ThreadId": "62609",
+    "Html": "<p>Hello, this control is awesome, I have a question: I see that when I not have connection can't view the map still with cached images, exist a option to use a &quot;offline mode&quot; to use cached tiles? thank you so much for this great control</p>",
+    "PostedDate": "2009-10-01T11:20:42.637-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "242800",
+    "ThreadId": "62609",
+    "Html": "<p>cool man, glad you like it :)</p>\r\n<p>i'm not sure how google handle's the offline scenario for google maps.&nbsp; i'll have to check their documentation and get back to you.</p>",
+    "PostedDate": "2009-10-06T22:25:46.503-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "243043",
+    "ThreadId": "62609",
+    "Html": "<p>Thanks you so much.</p>",
+    "PostedDate": "2009-10-07T10:34:55.167-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "475770",
+    "ThreadId": "62609",
+    "Html": "<p>I also dragged the control to the form and referenced everything needed, but I only get a blue screen/map.</p>\r\n<p>What code did you used? Really want to learn how to implement this. Using VB.NET 2010 btw.</p>",
+    "PostedDate": "2010-08-02T23:26:16.54-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "484983",
+    "ThreadId": "62609",
+    "Html": "<p>Found that I need to change the XML due to use of the 4.0 Frameworks.</p>",
+    "PostedDate": "2010-08-26T00:01:48.86-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "647303",
+    "ThreadId": "62609",
+    "Html": "<p>I have just started to migrate a project and will be happy to exchange info.</p>",
+    "PostedDate": "2011-07-25T12:13:27.597-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "647320",
+    "ThreadId": "62609",
+    "Html": "<p>Hi Jamboo, sure thing, I've added you as a developer on the project.</p>",
+    "PostedDate": "2011-07-25T12:51:03.61-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1137232",
+    "ThreadId": "62609",
+    "Html": "Private Sub loadmap()<br />\n<pre><code>    Me.GMapControl1.MouseWheelZoomType = MouseWheelZoomType.ViewCenter\n    Me.GMapControl1.DragButton = System.Windows.Forms.MouseButtons.Left\n\n\n    With Me.GMapControl1\n        .MapProvider = GMapProviders.GoogleMap\n        .MinZoom = 1\n        .MaxZoom = 20\n        .Zoom = 1\n        .Manager.Mode = AccessMode.ServerAndCache\n\n    End With\nEnd Sub</code></pre>\n\n",
+    "PostedDate": "2013-12-17T11:02:31.48-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

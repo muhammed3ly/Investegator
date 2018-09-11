@@ -1,0 +1,16 @@
+bin\Debug\MapAddress.exe
+bin\Debug\MapAddress.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MapAddress.frmMapIt.resources
+obj\Debug\MapAddress.Properties.Resources.resources
+obj\Debug\MapAddress.csproj.GenerateResource.Cache
+obj\Debug\MapAddress.exe
+obj\Debug\MapAddress.pdb
+bin\Release\MapAddress.exe
+bin\Release\MapAddress.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MapAddress.frmMapIt.resources
+obj\Release\MapAddress.Properties.Resources.resources
+obj\Release\MapAddress.csproj.GenerateResource.Cache
+obj\Release\MapAddress.exe
+obj\Release\MapAddress.pdb

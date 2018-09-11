@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "0",
+    "Name": "GMap.NET",
+    "DevelopmentStatus": "Alpha",
+    "Description": "Initial alpha version released, you can create a single KML file from the Google Earth application (place marker, right click save as) and publish it to the web and just add a straight FQDN (www.yourdomain.com/myPlaceMarker.kml) to your kml file in the control's properties.  I'll be adding a multiple Kml file and geoRSS support later.  Also, if you have problems publishing the Kml file, you will need to add a mime-type to your web server of file extension: .kml mime type: application/vnd.google-earth.kml+xml kml",
+    "ReleasedDatge": "0001-01-01T00:00:00",
+    "ModifiedDate": "2009-05-04T12:46:28.39-07:00",
+    "Files": [
+      {
+        "Id": "e81d7f86-1fe0-4941-89ac-984277d60ad2",
+        "FileName": "GMap.NET.zip",
+        "Url": "./0/e81d7f86-1fe0-4941-89ac-984277d60ad2",
+        "Type": "Source Code",
+        "UploadDate": "2009-05-04T12:41:05.793-07:00"
+      }
+    ]
+  }
+]

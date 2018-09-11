@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfCrimetype xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crimetype>
+    <typename>Homecide</typename>
+    <description>Killing a person by himself</description>
+    <crimetypeid>3</crimetypeid>
+  </Crimetype>
+  <Crimetype>
+    <typename>forcible rape</typename>
+    <description>raping others violently</description>
+    <crimetypeid>4</crimetypeid>
+  </Crimetype>
+  <Crimetype>
+    <typename>money laundering</typename>
+    <description>Money laundering is the act of concealing the transformation of profits from illegal activities and corruption into ostensibly "legitimate" assets. The dilemma of illicit activities is accounting for the origin of the proceeds of such activities without raising the suspicion of law enforcement agencies. Accordingly, considerable time and effort is put into devising strategies which enable the safe use of those proceeds without raising unwanted suspicion. Implementing such strategies is generally called money laundering. After money has been suitably laundered or "cleaned", it can be used in the mainstream economy for accumulation of wealth, such as acquisitions of properties, or otherwise spent. Law enforcement agencies of many jurisdictions have set up sophisticated systems in an effort to detect suspicious transactions or activities, and many have set up international cooperative arrangements to assist each other in these endeavours.</description>
+    <crimetypeid>6</crimetypeid>
+  </Crimetype>
+  <Crimetype>
+    <typename>Terrorism Threat</typename>
+    <description>terrorism</description>
+    <crimetypeid>7</crimetypeid>
+  </Crimetype>
+  <Crimetype>
+    <typename>Harrassment</typename>
+    <description>to annoy person phisycally</description>
+    <crimetypeid>7</crimetypeid>
+  </Crimetype>
+  <Crimetype>
+    <typename>Killing</typename>
+    <description>Killing people without right</description>
+    <crimetypeid>8</crimetypeid>
+  </Crimetype>
+  <Crimetype>
+    <typename>test</typename>
+    <description>testen</description>
+    <crimetypeid>7</crimetypeid>
+  </Crimetype>
+</ArrayOfCrimetype>

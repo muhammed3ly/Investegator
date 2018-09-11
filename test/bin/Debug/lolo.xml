@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfOfficer_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <officer_info>
+    <offId>12354</offId>
+    <name>khod</name>
+    <birth>01 April 2018</birth>
+  </officer_info>
+</ArrayOfOfficer_info><?xml version="1.0"?>
+<ArrayOfOfficer_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <officer_info>
+    <offId>1234556</offId>
+    <name>mohamed alaa</name>
+    <birth>08 November 1998</birth>
+  </officer_info>
+</ArrayOfOfficer_info><?xml version="1.0"?>
+<ArrayOfOfficer_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <officer_info>
+    <offId>1234556</offId>
+    <name>mohamed aly</name>
+    <birth>08 November 1996</birth>
+  </officer_info>
+</ArrayOfOfficer_info><?xml version="1.0"?>
+<ArrayOfOfficer_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <officer_info>
+    <offId>1234556</offId>
+    <name>mohamed hesham</name>
+    <birth>09 March 1997</birth>
+  </officer_info>
+</ArrayOfOfficer_info><?xml version="1.0"?>
+<ArrayOfOfficer_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <officer_info>
+    <offId>1234556</offId>
+    <name>mohamed mokbel</name>
+    <birth>09 March 1997</birth>
+  </officer_info>
+</ArrayOfOfficer_info>

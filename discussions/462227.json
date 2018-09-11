@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1107684",
+    "ThreadId": "462227",
+    "Html": "In the marker if you use a bitmap object, the position on the map is incorrect, the marker is positioned farther than if you use GMap.NET.WindowsForms.Markers.\r<br />\n<br />\nCould tell me what happens?\r<br />\n<br />\nThanks you.\r<br />\n<br />\n<br />\n//- The marker position is incorrect in the map\r<br />\nGMarkerGoogle ObjMarker = new GMap.NET.WindowsForms.Markers.GMarkerGoogle(<br />\n<pre><code>                               new GMap.NET.PointLatLng(this.m_dblLatitud, this.m_dblLongitud),\n                                GMap.NET.WindowsForms.Markers.GMarkerGoogleType.blue_dot);\n</code></pre>\n\n//- The marker position is not incorrect in the map \r<br />\nBitmap ObjBitmap = new Bitmap(strPath,true);\r<br />\nGMarkerGoogle ObjMarker = new GMap.NET.WindowsForms.Markers.GMarkerGoogle(<br />\n<pre><code>                               new GMap.NET.PointLatLng(this.m_dblLatitud, this.m_dblLongitud),\n                               ObjBitmap;</code></pre>\n\n",
+    "PostedDate": "2013-10-15T07:00:39.173-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

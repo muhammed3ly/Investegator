@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GMap.NET">
+</Property><Property Name="Solution File" Value="C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\GMap.NET.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\GMap.NET.suo">
+</Property><Property Name="Date" Value="16 July 2010">
+</Property><Property Name="Time" Value="12:47 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GMap.NET.sln" Description="File successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\GMap.NET.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GMap.NET.suo" Description="File successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\GMap.NET.suo">
+</Event><Event ErrorLevel="0" Project="Google" Source="Google\Google.csproj" Description="Project file successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\Google\Google.csproj">
+</Event><Event ErrorLevel="0" Project="Google" Source="Google\GoogleMaps.cs" Description="File successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\Google\GoogleMaps.cs">
+</Event><Event ErrorLevel="0" Project="Google" Source="Google\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\Google\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Google" Source="Google\Google.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Google" Source="Google\Google.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestSite" Source="TestSite\TestSite.csproj" Description="Project file successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\TestSite\TestSite.csproj">
+</Event><Event ErrorLevel="0" Project="TestSite" Source="TestSite\TestSite.csproj.user" Description="Project user file successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\TestSite\TestSite.csproj.user">
+</Event><Event ErrorLevel="0" Project="TestSite" Source="TestSite\Default.aspx.cs" Description="File successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\TestSite\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="TestSite" Source="TestSite\Default.aspx.designer.cs" Description="File successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\TestSite\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="TestSite" Source="TestSite\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\TestSite\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestSite" Source="TestSite\Default.aspx" Description="File successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\TestSite\Default.aspx">
+</Event><Event ErrorLevel="0" Project="TestSite" Source="TestSite\Web.config" Description="File successfully backed up as C:\Users\Halcyon.HALCYONETIC\Visual Studio\Open Source\Halcyonetic Studios\GMap.NET\Backup\TestSite\Web.config">
+</Event><Event ErrorLevel="0" Project="TestSite" Source="TestSite\TestSite.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestSite" Source="TestSite\TestSite.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GMap.NET.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GMap.NET.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Google" Source="Google\Google.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TestSite" Source="TestSite\TestSite.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

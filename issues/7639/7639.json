@@ -1,0 +1,39 @@
+{
+  "WorkItem": {
+    "AffectedComponent": {
+      "Name": "",
+      "DisplayName": ""
+    },
+    "ClosedComment": "",
+    "ClosedDate": null,
+    "CommentCount": 0,
+    "Custom": null,
+    "Description": "In the marker if you use a bitmap object, the position on the map is incorrect, the marker is positioned farther than if you use GMap.NET.WindowsForms.Markers. \n\nCould tell me what happens? \n\nThanks you. \n\n\n//- The marker position is incorrect in the map \nGMarkerGoogle ObjMarker = new GMap.NET.WindowsForms.Markers.GMarkerGoogle(\n                               new GMap.NET.PointLatLng(this.m_dblLatitud, this.m_dblLongitud),\n                                GMap.NET.WindowsForms.Markers.GMarkerGoogleType.blue_dot);\n//- The marker position is not incorrect in the map \nBitmap ObjBitmap = new Bitmap(strPath,true); \nGMarkerGoogle ObjMarker = new GMap.NET.WindowsForms.Markers.GMarkerGoogle(\n                               new GMap.NET.PointLatLng(this.m_dblLatitud, this.m_dblLongitud),\n                               ObjBitmap;",
+    "LastUpdatedDate": "2013-10-21T09:15:26.05-07:00",
+    "PlannedForRelease": "",
+    "ReleaseVisibleToPublic": false,
+    "Priority": {
+      "Name": "Unassigned",
+      "Severity": 0,
+      "Id": 0
+    },
+    "ProjectName": "gmapDotNet",
+    "ReportedDate": "2013-10-21T09:15:26.05-07:00",
+    "Status": {
+      "Name": "Proposed",
+      "Id": 1
+    },
+    "ReasonClosed": {
+      "Name": "Unassigned"
+    },
+    "Summary": "GMap.NET.WindowsForms.Markers",
+    "Type": {
+      "Name": "Unassigned",
+      "Id": 5
+    },
+    "VoteCount": 1,
+    "Id": 7639
+  },
+  "FileAttachments": [],
+  "Comments": []
+}

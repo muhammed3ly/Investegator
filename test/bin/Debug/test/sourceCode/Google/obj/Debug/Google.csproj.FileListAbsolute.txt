@@ -1,0 +1,10 @@
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\bin\Debug\Google.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\bin\Debug\Google.pdb
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\obj\Debug\Google.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\obj\Debug\Google.pdb
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\bin\Debug\Google.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\bin\Debug\Google.pdb
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\obj\Debug\Google.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\obj\Debug\Google.pdb

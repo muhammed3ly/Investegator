@@ -1,0 +1,40 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A54CAFCD-48D8-46EC-866A-BCF4C83A9ED0/f:GoogleMaps.cs" caret="2595" fromTop="0" />
+      <File id="241EEBBD-BBBD-4F9C-A1C8-28AABDB0325F/f:Default.aspx" caret="626" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="241EEBBD-BBBD-4F9C-A1C8-28AABDB0325F/f:Default.aspx" caret="659" fromTop="8" />
+      <File id="A54CAFCD-48D8-46EC-866A-BCF4C83A9ED0/f:GoogleMaps.cs" caret="4239" fromTop="11" />
+      <File id="A54CAFCD-48D8-46EC-866A-BCF4C83A9ED0/f:GoogleMaps.cs" caret="3784" fromTop="5" />
+      <File id="241EEBBD-BBBD-4F9C-A1C8-28AABDB0325F/f:Default.aspx" caret="659" fromTop="14" />
+      <File id="A54CAFCD-48D8-46EC-866A-BCF4C83A9ED0/f:GoogleMaps.cs" caret="4267" fromTop="19" />
+      <File id="A54CAFCD-48D8-46EC-866A-BCF4C83A9ED0/f:GoogleMaps.cs" caret="3365" fromTop="1" />
+      <File id="A54CAFCD-48D8-46EC-866A-BCF4C83A9ED0/f:GoogleMaps.cs" caret="5136" fromTop="26" />
+      <File id="241EEBBD-BBBD-4F9C-A1C8-28AABDB0325F/f:Default.aspx" caret="581" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="0" />
+      <Item value="KmlFile" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

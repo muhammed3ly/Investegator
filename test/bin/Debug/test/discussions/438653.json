@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "1023716",
+    "ThreadId": "438653",
+    "Html": "How to create a circle with GMapControl?if someone can help me ,thanks a lot!<br />\n",
+    "PostedDate": "2013-04-01T03:54:41.1-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  },
+  {
+    "Id": "1471905",
+    "ThreadId": "438653",
+    "Html": "Hi there.\r<br />\nDid you try drawing a circle using GmapPolygon class? I suggest to compute your circle coordinates (R^2 = X^2 + Y^2) and use this class simply.\r<br />\nHope this helps u.<br />\n",
+    "PostedDate": "2016-04-30T01:43:22.787-07:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

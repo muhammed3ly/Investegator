@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfInvolvedPeople xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <involvedPeople>
+    <name>fsfsfs</name>
+    <personalID>55555</personalID>
+    <address>dsds, dds</address>
+    <birthDate>5/1/2018</birthDate>
+    <nationality>Bahamas</nationality>
+    <militaryStatus>Foreign</militaryStatus>
+    <imagePath>babies_001.jpg</imagePath>
+    <gender>Male</gender>
+    <martialStatus>Unmarried</martialStatus>
+    <CrimeIDS>
+      <int>13</int>
+      <int>11</int>
+    </CrimeIDS>
+  </involvedPeople>
+  <involvedPeople>
+    <name>zfxfx</name>
+    <personalID>2233445566</personalID>
+    <address>fsfs, fsfs</address>
+    <birthDate>02-May-18</birthDate>
+    <nationality>Democratic Republic of the Congo</nationality>
+    <militaryStatus>Foreign</militaryStatus>
+    <imagePath>20150327_225955.jpg</imagePath>
+    <gender>Male</gender>
+    <martialStatus>Unmarried</martialStatus>
+    <CrimeIDS>
+      <int>16</int>
+    </CrimeIDS>
+  </involvedPeople>
+</ArrayOfInvolvedPeople>

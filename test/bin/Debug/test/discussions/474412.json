@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1137231",
+    "ThreadId": "474412",
+    "Html": "Dim places As List(Of Placemark)<br />\n<pre><code>    Dim st = GMapProviders.GoogleMap.GetPlacemarks(New PointLatLng(54.6961334816182, 25.2985095977782), places)\n    For Each place In places\n        MsgBox(place.CountryName.ToString)\n\n    Next\n\n    Dim status As GeoCoderStatusCode\n</code></pre>\n\nthis code is not working :-(<br />\n",
+    "PostedDate": "2013-12-17T11:00:12.577-08:00",
+    "UserRole": null,
+    "MarkedAsAnswerDate": null
+  }
+]

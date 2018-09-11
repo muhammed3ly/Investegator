@@ -1,0 +1,14 @@
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\TestSite\bin\TestSite.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\TestSite\bin\TestSite.pdb
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\TestSite\bin\Google.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\TestSite\bin\Google.pdb
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\TestSite\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\TestSite\obj\Debug\TestSite.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\TestSite\obj\Debug\TestSite.pdb
+C:\Users\hp\Desktop\test\sourceCode\TestSite\bin\TestSite.dll
+C:\Users\hp\Desktop\test\sourceCode\TestSite\bin\TestSite.pdb
+C:\Users\hp\Desktop\test\sourceCode\TestSite\bin\Google.dll
+C:\Users\hp\Desktop\test\sourceCode\TestSite\bin\Google.pdb
+C:\Users\hp\Desktop\test\sourceCode\TestSite\obj\Debug\TestSite.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\test\sourceCode\TestSite\obj\Debug\TestSite.dll
+C:\Users\hp\Desktop\test\sourceCode\TestSite\obj\Debug\TestSite.pdb

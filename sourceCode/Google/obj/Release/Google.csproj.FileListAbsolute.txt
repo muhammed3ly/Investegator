@@ -1,0 +1,15 @@
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\bin\Release\Google.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\bin\Release\Google.pdb
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\obj\Release\ResolveAssemblyReference.cache
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\obj\Release\Google.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Controls\Google\Google\obj\Release\Google.pdb
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\bin\Release\Google.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\bin\Release\Google.pdb
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\obj\Release\ResolveAssemblyReference.cache
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\obj\Release\Google.dll
+C:\Users\halcyon.HALCYONETIC\Visual Studio 2008\Pubs\CodePlex\GMap.NET\Google\obj\Release\Google.pdb
+C:\Users\hp\Desktop\test\sourceCode\Google\bin\Release\Google.dll
+C:\Users\hp\Desktop\test\sourceCode\Google\bin\Release\Google.pdb
+C:\Users\hp\Desktop\test\sourceCode\Google\obj\Release\Google.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\test\sourceCode\Google\obj\Release\Google.dll
+C:\Users\hp\Desktop\test\sourceCode\Google\obj\Release\Google.pdb
